@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @er-palashdas
 - 👀 I’m interested in ...AI machine learning & Web Development.
 - 🌱 I’m currently learning ...Machine learning & Web Development.
-- 💞️ I’m looking to collaborate on ...Web Development.
+- 💞️ I’m looking to collaborate on ...Data Analysis.
 - 📫 How to reach me ...contanct me through erpalash13@gmail.com
 
 <!---
